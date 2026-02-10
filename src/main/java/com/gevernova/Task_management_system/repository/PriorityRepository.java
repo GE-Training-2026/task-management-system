@@ -1,6 +1,6 @@
-package com.gevernova.task_management_system.repository;
+package com.gevernova.Task_management_system.repository;
 
-import com.gevernova.task_management_system.model.Priority;
+import com.gevernova.Task_management_system.model.Priority;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PriorityRepository extends JpaRepository<Priority, Long> {}
