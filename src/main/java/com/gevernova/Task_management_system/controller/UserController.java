@@ -1,9 +1,9 @@
-package com.gevernova.task_management_system.controller;
+package com.gevernova.Task_management_system.controller;
 
 
-import com.gevernova.task_management_system.dto.UserRequest;
-import com.gevernova.task_management_system.model.User;
-import com.gevernova.task_management_system.service.UserService;
+import com.gevernova.Task_management_system.DTO.UserRequest;
+import com.gevernova.Task_management_system.model.User;
+import com.gevernova.Task_management_system.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
