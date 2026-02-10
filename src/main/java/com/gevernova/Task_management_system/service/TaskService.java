@@ -1,12 +1,9 @@
-package com.gevernova.task_management_system.service;
+package com.gevernova.Task_management_system.service;
 
-import com.gevernova.task_management_system.dto.*;
-import com.gevernova.task_management_system.exception.CategoryNotFoundException;
-import com.gevernova.task_management_system.exception.PriorityNotFoundException;
-import com.gevernova.task_management_system.exception.TaskNotFoundException;
-import com.gevernova.task_management_system.exception.UserNotFoundException;
-import com.gevernova.task_management_system.model.*;
-import com.gevernova.task_management_system.repository.*;
+import com.gevernova.Task_management_system.DTO.*;
+import com.gevernova.Task_management_system.exception.*;
+import com.gevernova.Task_management_system.model.*;
+import com.gevernova.Task_management_system.repository.*;
 import lombok.*;
 import org.springframework.stereotype.*;
 
