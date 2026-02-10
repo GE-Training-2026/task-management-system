@@ -1,4 +1,4 @@
-package com.gevernova.task_management_system.exception;
+package com.gevernova.Task_management_system.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
