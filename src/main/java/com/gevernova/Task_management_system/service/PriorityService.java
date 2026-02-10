@@ -1,9 +1,9 @@
-package com.gevernova.task_management_system.service;
+package com.gevernova.Task_management_system.service;
 
 
-import com.gevernova.task_management_system.exception.PriorityNotFoundException;
-import com.gevernova.task_management_system.model.Priority;
-import com.gevernova.task_management_system.repository.PriorityRepository;
+import com.gevernova.Task_management_system.exception.PriorityNotFoundException;
+import com.gevernova.Task_management_system.model.Priority;
+import com.gevernova.Task_management_system.repository.PriorityRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
