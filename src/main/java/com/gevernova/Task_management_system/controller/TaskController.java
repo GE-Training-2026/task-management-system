@@ -1,8 +1,9 @@
-package com.gevernova.task_management_system.controller;
+package com.gevernova.Task_management_system.controller;
 
-import com.gevernova.task_management_system.dto.TaskRequest;
-import com.gevernova.task_management_system.model.Task;
-import com.gevernova.task_management_system.service.*;
+
+import com.gevernova.Task_management_system.DTO.TaskRequest;
+import com.gevernova.Task_management_system.model.Task;
+import com.gevernova.Task_management_system.service.TaskService;
 import lombok.*;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
