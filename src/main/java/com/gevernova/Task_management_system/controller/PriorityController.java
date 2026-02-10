@@ -1,8 +1,7 @@
-package com.gevernova.task_management_system.controller;
+package com.gevernova.Task_management_system.controller;
 
-
-import com.gevernova.task_management_system.model.Priority;
-import com.gevernova.task_management_system.service.PriorityService;
+import com.gevernova.Task_management_system.model.Priority;
+import com.gevernova.Task_management_system.service.PriorityService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
