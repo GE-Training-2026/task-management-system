@@ -1,4 +1,4 @@
-package com.gevernova.task_management_system.dto;
+package com.gevernova.Task_management_system.DTO;
 
 import lombok.Data;
 
