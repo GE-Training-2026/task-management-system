@@ -1,4 +1,4 @@
-package com.gevernova.task_management_system.model;
+package com.gevernova.Task_management_system.model;
 
 import jakarta.persistence.*;
 import lombok.*;
