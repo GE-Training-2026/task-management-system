@@ -1,11 +1,10 @@
-package com.gevernova.task_management_system.controller;
+package com.gevernova.Task_management_system.controller;
 
-
-import com.gevernova.task_management_system.model.Category;
-import com.gevernova.task_management_system.service.CategoryService;
+import com.gevernova.Task_management_system.model.*;
+import com.gevernova.Task_management_system.service.*;
 import lombok.*;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
+import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
