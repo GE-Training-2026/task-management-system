@@ -1,9 +1,10 @@
-package com.gevernova.task_management_system.service;
+package com.gevernova.Task_management_system.service;
 
-import com.gevernova.task_management_system.dto.UserRequest;
-import com.gevernova.task_management_system.exception.UserNotFoundException;
-import com.gevernova.task_management_system.model.*;
-import com.gevernova.task_management_system.repository.*;
+
+import com.gevernova.Task_management_system.DTO.UserRequest;
+import com.gevernova.Task_management_system.exception.UserNotFoundException;
+import com.gevernova.Task_management_system.model.User;
+import com.gevernova.Task_management_system.repository.UserRepository;
 import lombok.*;
 import org.springframework.stereotype.*;
 
